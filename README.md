@@ -1,11 +1,5 @@
 # GANDALF
-Federated Learning (FL) is a distributed learning technique that allows devices to
-collaboratively learn a shared prediction model while keeping all the training data
-locally and thus enable more secured and accurate model training. However, the
-convergence and accuracy of federated learning can be degraded by the non-IID
-(non independent and identically distributed) data across all edge devices. Hence,
-we proposed **a GAN-based Data Augmentation Learning Framework named GANDALF**, which aims to solve the non-IID problem by performing data augmentation
-with GAN models based on a mediator-based system architecture
+Federated Learning (FL) is a distributed learning technique that allows devices to collaboratively learn a shared prediction model while keeping all the training data locally and thus enable more secured and accurate model training. However, the convergence and accuracy of federated learning can be degraded by the non-IID (non independent and identically distributed) data across all edge devices. Hence, we proposed **a GAN-based Data Augmentation Learning Framework named GANDALF**, which aims to solve the non-IID problem by performing data augmentation with GAN models based on a mediator-based system architecture
 
 # Overview
 The overview of the proposed framework is shown in below figure. This framework consists of three phases: 
