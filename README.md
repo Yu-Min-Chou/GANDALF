@@ -4,7 +4,7 @@ Federated Learning (FL) is a distributed learning technique that allows devices 
 # Overview
 The overview of the proposed framework is shown in below figure. This framework consists of three phases: 
 Training GAN models, Data augmentation with GANs, and Training user model. In addition, our framework also introduces the mediator-based architecture, which brings optimizations and reduces overhead. 
-The detail of the framework and mediator-based architecture are discussed below.
+The detail of the framework are discussed below.
 
 ![GANDALF_framework](resource/framework.png)
 
